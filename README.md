@@ -270,7 +270,8 @@ The application is deployed on an Amazon EC2 instance with the following configu
 
 ## Screenshots
 
-[Add your Jenkins pipeline screenshots here]
+[Add your Jenkins pipeline screenshots here]![image](https://github.com/user-attachments/assets/0409a440-f94e-408c-9395-4ab282a71059)
+
 
 ## Contributing
 
